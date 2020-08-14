@@ -3,7 +3,7 @@ This pipeline allows to call mobile genes SNVs and compute population genetics m
 
 ## Pipeline
 - Recquired Operating System : Unix-based operating systems such as Mac OS or Linux distributions.
-- Recquired Python version : the python version should be compatible with anv'io (default=python3.6)(INDICATE THE PATH OF THE PYTHON INTERPRETER AT THE BEGINNING OF Data_Exploration.py)
+- Recquired Python version : the python version should be compatible with anv'io (default=python3.6;INDICATE THE PATH OF THE PYTHON INTERPRETER AT THE BEGINNING OF Data_Exploration.py)
 - Recquired Python librairies : numpy, pandas, sys, time, multiprocess & os
 - Recquired r librairies : ggplot2, ggdendro, nlme, grid, reshape2 & seqinr
 - Recquired virtual environment : anvio5
